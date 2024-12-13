@@ -1,0 +1,9 @@
+CACHE MANIFEST
+
+CACHE:
+/NPF-Calculator/
+/NPF-Calculator/script.js
+/NPF-Calculator/favicon.svg
+https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css
+https://cdn.jsdelivr.net/npm/core-js-bundle/minified.min.js
+https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js

@@ -1,0 +1,22 @@
+{
+  "background_color": "#000000",
+  "capture_links": "new-client",
+  "description": "NPF Calculator",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "any",
+      "src": "/NPF-Calculator/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en-SG",
+  "name": "NPF Calculator",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "scope": "/NPF-Calculator/",
+  "short_name": "NPF Calculator",
+  "start_url": "/NPF-Calculator/",
+  "theme_color": "#000000"
+}
